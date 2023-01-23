@@ -5,11 +5,11 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "26520260"))
-    API_HASH = os.getenv("API_HASH", "8d4eb603f4489ad45125a88b3ee12306")
+    API_ID = int(os.getenv("API_ID", "24450296"))
+    API_HASH = os.getenv("API_HASH", "3d7b5f65071305eb298fc7ea07a92103")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Gm Movies Search Bot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOIgBu7REKaKAPdiZ75zHY02BiepdsNDX4FYR8oRjOUdUu7PK2pZUpE6zqvWBd4yVoJFjisNE-ohcBFi78fe7J1UC_mUv3bT-zCnN4mVcL6gPdeRYKBKu6VkhQd6qPsmYXYXUNA5Wvh3C_01r8Bei0jXC21qw07awcyxjA5BIXQ3caEYdXY1Z2NhQrWpUTvEdZPiVklEZY3IFhvDroHej5XAE7jWUJH1-b1BMqUTjs7XLtdIXffG3ZZ7xG4K_jvskckWBN2AvQLq60fuxkZzSVb_bCHC3l7RdfEPWiF2jed4wuXdDrOzgGEKwYC_FknAHr-SwJObBIGFjCxqyI4DMCNX_hpY=")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQCOHBV0VBRSfxS3VgkzHKh7cwrGEYVm1BinurrYss5sBwfcEzp-EzSsibBDY67RC8GTgLUVPcusvaC7FRYuuv9EHxzavHz4FxrmPrHw41w1j5jvozh4sF1STsTe5FiXNFfjSFhlhXJVWtvb9ohXdE_WhdiX-voDFE9yyEb9pQcpAWh0t_FJaBTX-WtT8RoZawSvfWJSYefgcXEwRWr35mcdte2L-tg_bplurcTwj07GlFnusdsV6H3_wrR2Y07DhJ75EUujFqov6AFlaiD_trp-RJi-waip1xjMqcUu4091CbLldVbPnuCFGR1sPU-ZSTebdttcmZQC69dAcxv6JyvpAAAAAUcKRW4A")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001871054285")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Moviesearcher77bot')
 
@@ -56,7 +56,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @CyniteBackup"""
+ʀᴇɢᴀʀᴅs - @gm_corporation"""
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
@@ -110,7 +110,7 @@ https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
 
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
 
-👉 @CyniteSupport
+👉 @ganesh_gujjar_777
 
 """
 
