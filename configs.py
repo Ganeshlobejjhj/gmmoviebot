@@ -7,11 +7,11 @@ import os
 class Config(object):
     API_ID = int(os.getenv("API_ID", "26520260"))
     API_HASH = os.getenv("API_HASH", "8d4eb603f4489ad45125a88b3ee12306")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Gm Movies Search Bot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOIgBu7REKaKAPdiZ75zHY02BiepdsNDX4FYR8oRjOUdUu7PK2pZUpE6zqvWBd4yVoJFjisNE-ohcBFi78fe7J1UC_mUv3bT-zCnN4mVcL6gPdeRYKBKu6VkhQd6qPsmYXYXUNA5Wvh3C_01r8Bei0jXC21qw07awcyxjA5BIXQ3caEYdXY1Z2NhQrWpUTvEdZPiVklEZY3IFhvDroHej5XAE7jWUJH1-b1BMqUTjs7XLtdIXffG3ZZ7xG4K_jvskckWBN2AvQLq60fuxkZzSVb_bCHC3l7RdfEPWiF2jed4wuXdDrOzgGEKwYC_FknAHr-SwJObBIGFjCxqyI4DMCNX_hpY=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001871054285")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "Moviesearcher77bot
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Moviesearcher77bot')
 
 ")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5869058469"))
