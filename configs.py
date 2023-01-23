@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "3d7b5f65071305eb298fc7ea07a92103")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Gm Movies Search Bot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQCOHBV0VBRSfxS3VgkzHKh7cwrGEYVm1BinurrYss5sBwfcEzp-EzSsibBDY67RC8GTgLUVPcusvaC7FRYuuv9EHxzavHz4FxrmPrHw41w1j5jvozh4sF1STsTe5FiXNFfjSFhlhXJVWtvb9ohXdE_WhdiX-voDFE9yyEb9pQcpAWh0t_FJaBTX-WtT8RoZawSvfWJSYefgcXEwRWr35mcdte2L-tg_bplurcTwj07GlFnusdsV6H3_wrR2Y07DhJ75EUujFqov6AFlaiD_trp-RJi-waip1xjMqcUu4091CbLldVbPnuCFGR1sPU-ZSTebdttcmZQC69dAcxv6JyvpAAAAAUcKRW4A")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQCOHBV0VBRSfxS3VgkzHKh7cwrGEYVm1BinurrYss5sBwfcEzp-EzSsibBDY67RC8GTgLUVPcusvaC7FRYuuv9EHxzavHz4FxrmPrHw41w1j5jvozh4sF1STsTe5FiXNFfjSFhlhXJVWtvb9ohXdE_WhdiX-voDFE9yyEb9pQcpAWh0t_FJaBTX-WtT8RoZawSvfWJSYefgcXEwRWr35mcdte2L-tg_bplurcTwj07GlFnusdsV6H3_wrR2Y07DhJ75EUujFqov6AFlaiD_trp-RJi-waip1xjMqcUu4091CbLldVbPnuCFGR1sPU-ZSTebdttcmZQC69dAcxv6JyvpAAAAAUcKRW4A=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001871054285")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Moviesearcher77bot')
 
