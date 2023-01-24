@@ -13,7 +13,7 @@ class Config(object):
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001871054285")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Moviesearcher77bot")
 
-")
+
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5869058469"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Ganesh_gujjar_777")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "gm_corporation")
