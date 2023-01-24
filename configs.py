@@ -11,7 +11,7 @@ class Config(object):
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Gm Movies Search Bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOMMBuwF_eKVZi1eIMmwUa-7W5u33p7339AorfEQzMQxC1nBpqwYUvcg8XM0IM6zJUYEzu8nApX2gmii6ECcmUCyCXHCHKyUtqxaJpGI-HLUrKGBPoSDYVCe2naEIK7YlQtOOMZjxRzJeX3SgvK_fq54Q2qjTqDhd2ao5N9X8PyaetK-W9GeoX2y1kF0AhhD0slO6lSaRnMhLgbi0lKW84MICM_pSjWRtnX5N6gduFrd1KO-_xXRnALtRnJGqbkh6YbAbhiYopPAbOMw7Uam5-U7KOI5HYduaHH54A5FpadUjZHEIlKNqP2xaxRCB78d9H3gO9B--I-nBISsRFiqpIMI-7DA=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001871054285")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "Moviesearcher77bot')
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Moviesearcher77bot")
 
 ")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5869058469"))
